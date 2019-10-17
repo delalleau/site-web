@@ -1,0 +1,17 @@
+/* CSS Document */
+BODY{color:white;
+background-color : blue;}
+
+h1,h2,h3{text-align:center;}
+
+.paragraphe1{color:red;}
+.paragraphe2{
+                text-align:center;
+                color:yellow;
+                font-size: 20px;
+}
+  .paragraphe3{
+                text-align:right;
+                font-family:arial;
+                font-size: 30px;
+}
